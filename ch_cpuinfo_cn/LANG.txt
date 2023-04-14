@@ -1,0 +1,38 @@
+## Do not Change variable!!!
+##
+## If you change to Y value of CUSTLANG,
+## You can do change messages contents to your language.
+##
+## Change the value of MSGECHO to use
+##
+CUSTLANG=Y
+##
+##
+### Messages Contents
+MSGECHO01="警告！！直接处理原始文件，无需备份。"
+MSGECHO02="恢复到原始源并继续。"
+MSGECHO03="删除 Previos 版本备份位置。"
+MSGECHO04="自动执行，如果您选择 n，则以交互方式继续（取消：q）[y/n]："
+MSGECHO05="继续原始文件备份和准备。如果选择 n，则直接处理原始文件。（取消：q）[y/n]："
+MSGECHO06="CPU 名称，核心数并反映它。如果选择 n，则重新定位原始文件（取消：q）[y/n]："
+MSGECHO07="有运行相同版本的历史。请再次运行选择2) 重做。"
+MSGECHO08="安装更高版本时不要恢复到源。继续..."
+MSGECHO09="您已经验证并安装了之前的版本。继续..."
+MSGECHO10="问题退出。请检查后再运行。"
+MSGECHO11="此版本没有执行历史记录。请返回第一次运行。"
+MSGECHO12="目标文件（位置）不存在，请检查后再运行。"
+MSGECHO13="操作完成！！生效大约需要1-2分钟，\n(请用F5刷新DSM页面或注销/登录后查看信息。)"
+MSGECHO14="只能输入y / n / q，请重新输入。"
+MSGECHO15="DSM CPU 信息更改工具版本。"
+MSGECHO16="制作者"
+MSGECHO17="您的 DSM 版本是"
+MSGECHO18="继续"
+MSGECHO19="不支持低于 5 的 DSM 版本。结束进程。"
+MSGECHO20="1) 首次运行 2) 重做 3) 恢复 - 选择编号："
+MSGECHO21="您要继续吗？恢复到原始文件备份并继续。（取消：q）[y/n]："
+MSGECHO22="不要继续重做。"
+MSGECHO23="您要使用原始备份文件恢复吗？（取消：q）[y/n]："
+MSGECHO24="未执行恢复。"
+MSGECHO25="请选择正确的号码。"
+## Add inforation 2021.09.30
+MSGECHO26="要申请的CPU信息如下。"
